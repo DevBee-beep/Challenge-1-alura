@@ -14,7 +14,23 @@ body {
     
 }
 
-.logo {
+
+.texto_da_logo {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.78px;
+}
+
+.logo_e_texto {
+    display: flex;
+    flex-direction: row;
+    width: Hug (134px)px;
+    height: Hug (24px)px;
+    gap: 8px;
+    opacity: 0px;
     margin-left: 152px; 
     margin-top: 32px;
+    align-items: center;
+
 }
